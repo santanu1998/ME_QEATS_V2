@@ -17,6 +17,8 @@
 ### Image
 
 
+![QEats](https://user-images.githubusercontent.com/69622683/227975156-28df2391-2d16-4b97-89e3-af8829651b8e.png)
+
 
 ## Retrieve restaurant data for a given user location
 
